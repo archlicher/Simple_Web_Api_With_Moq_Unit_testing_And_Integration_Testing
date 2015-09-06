@@ -1,0 +1,14 @@
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\OnlineShop.Models.dll.config
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\OnlineShop.Models.dll
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\OnlineShop.Models.pdb
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\EntityFramework.dll
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\EntityFramework.xml
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\obj\Debug\OnlineShop.Models.csprojResolveAssemblyReference.cache
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\obj\Debug\OnlineShop.Models.dll
+D:\SoftUni\Web_Services_Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\obj\Debug\OnlineShop.Models.pdb
